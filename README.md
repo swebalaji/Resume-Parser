@@ -1,6 +1,6 @@
 # Resume-Parser
 
-This project allows you to specify a URL and file path, then execute various methods to process the data using an IPython notebook (.ipynb file).
+This project allows you to specify a URL of LLM model and file path of your resume, then execute various methods to process the data of Resume using an IPython notebook (.ipynb file).
 
 ## Getting Started
 
