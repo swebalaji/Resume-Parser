@@ -29,6 +29,8 @@ Navigate to your_notebook.ipynb and run the cells in the notebook. Make sure to 
 Here’s a brief overview of how to use the notebook with the specified URL and file path:
 
 1)Open your_notebook.ipynb in Jupyter Notebook.
+
 2)Update the cells with the correct URL and file path.
+
 3)Run the cells to execute the methods.
 
